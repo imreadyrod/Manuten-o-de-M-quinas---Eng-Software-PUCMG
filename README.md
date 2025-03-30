@@ -1,4 +1,4 @@
-<h1>Escopo do Projeto: Agendamento de Manutenção em Múltiplas Máquinas<h1>
+<h1><center>Agendamento de Manutenção em Múltiplas Máquinas<center></h1>
 
 (i) Objetivo
 
