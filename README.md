@@ -43,7 +43,6 @@
 
 <section>
 <h2>5. Diagrama de Caso de Uso</h2>
-</section>
     <h3>5.1 Atores</h3>
         <ul>
             <li>Técnico de Manutenção: Registra a conclusão de cada etapa da manutenção.</li>
@@ -59,6 +58,8 @@
             <li>Ajustar Cronograma Manualmente: O gerente pode modificar o agendamento caso necessário.</li>
             <li>Gerar Relatórios: O sistema produz relatórios de eficiência da manutenção.</li>
         </ul>
+</section>
+<img src="Imagens/Manutencao Equipamentos UML.jpg" alt="Diagrama de Caso de Uso" width="1000" height="500">
 
 
 
