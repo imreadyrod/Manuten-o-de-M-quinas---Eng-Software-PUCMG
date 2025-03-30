@@ -44,13 +44,13 @@
 <section>
 <h2>5. Diagrama de Caso de Uso</h2>
 </section>
-    <h3>Atores</h3>
+    <h3>5.1 Atores</h3>
         <ul>
             <li>Técnico de Manutenção: Registra a conclusão de cada etapa da manutenção.</li>
             <li>Gerente de Produção: Visualiza e ajusta o cronograma de manutenção.</li>
             <li>Sistema: Processa as prioridades e distribui as manutenções entre as máquinas.</li>
         </ul>
-    <h3>Casos de Uso Principais</h3>
+    <h3>5.2 Casos de Uso Principais</h3>
         <ul>
             <li>Cadastrar Equipamento: O gerente registra um novo equipamento no sistema, incluindo sua sequência de manutenção.</li>
             <li>Cadastrar Ordem de Manutenção: O gerente insere uma nova ordem e define sua prioridade.</li>
