@@ -1,16 +1,18 @@
 <h1><center>Agendamento de Manutenção em Múltiplas Máquinas<center></h1>
+<section>
+    <h2>1. Objetivo</h2>
+    <p>O objetivo deste projeto é desenvolver um sistema de agendamento inteligente para a manutenção de equipamentos na indústria metalúrgica, garantindo a otimização dos recursos e a redução do tempo de inatividade das máquinas. O sistema priorizará automaticamente as manutenções com base em fatores como urgência, disponibilidade de mão de obra e recursos necessários para cada etapa do processo.</p>
+</section>
 
-(i) Objetivo
+<section>
+    <h2>2. Problema</h2>
+    <p>Atualmente, a programação da manutenção dos equipamentos na indústria é feita manualmente ou de forma ineficiente, resultando em atrasos, uso inadequado de recursos e aumento do tempo de inatividade dos equipamentos. A falta de um sistema automatizado de priorização e agendamento pode comprometer a produtividade da indústria e impactar a qualidade do processo industrial. O desafio é garantir que a sequência de manutenção de cada equipamento seja respeitada e que as ordens mais urgentes sejam atendidas primeiro, minimizando o impacto na produção.</p>
+</section>
 
-O objetivo deste projeto é desenvolver um sistema de agendamento inteligente para a manutenção de equipamentos na indústria metalúrgica, garantindo a otimização dos recursos e a redução do tempo de inatividade das máquinas. O sistema priorizará automaticamente as manutenções com base em fatores como urgência, disponibilidade de mão de obra e recursos necessários para cada etapa do processo.
-
-(ii) Problema
-
-Atualmente, a programação da manutenção dos equipamentos na indústria é feita manualmente ou de forma ineficiente, resultando em atrasos, uso inadequado de recursos e aumento do tempo de inatividade dos equipamentos. A falta de um sistema automatizado de priorização e agendamento pode comprometer a produtividade da indústria e impactar a qualidade do processo industrial. O desafio é garantir que a sequência de manutenção de cada equipamento seja respeitada e que as ordens mais urgentes sejam atendidas primeiro, minimizando o impacto na produção.
-
-(iii) Tipo de Solução
-
-O sistema será uma aplicação web baseada em nuvem que permitirá o agendamento dinâmico e automático das manutenções. A solução utilizará algoritmos de otimização para priorizar as ordens de manutenção e garantir que cada equipamento passe pelas etapas obrigatórias de manutenção de forma eficiente.
+<section>
+    <h2>3. Tipo de Solução</h2>
+    <p>O sistema será uma aplicação web baseada em nuvem que permitirá o agendamento dinâmico e automático das manutenções. A solução utilizará algoritmos de otimização para priorizar as ordens de manutenção e garantir que cada equipamento passe pelas etapas obrigatórias de manutenção de forma eficiente.</p>
+</section>
 
 (iv) Requisitos Funcionais e Não Funcionais
 
